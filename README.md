@@ -1,6 +1,11 @@
-An asssigment from The Odin Project, where I had to build a page that looks like Google's homepage.
+# The Odin Project - Google homepage solution
 
-Using HTML, I started with the main elements of this page (navigation, search bar, and footer)
-and was then able to use CSS to place and style them.
+This is a solution to the [Google homepage assignment on the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css#assignment). The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 
-Might be a bit haphazard, as this is one of my first few pages and I have little experience.
+### The challenge
+
+- Build the Google.com homepage
+
+### Screenshot
+
+![Screenshot](images/screenshot.jpg)
