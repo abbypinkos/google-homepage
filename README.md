@@ -2,7 +2,7 @@
 
 This is a solution to the [Google homepage assignment on the Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css#assignment). The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 
-### The challenge
+### The assignment
 
 - Build the Google.com homepage
 
